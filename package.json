@@ -1,0 +1,34 @@
+{
+    "name": "humansensor",
+    "version": "0.0.0",
+    "private": true,
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "body-parser": "latest",
+        "chalk": "latest",
+        "cookie-parser": "latest",
+        "crypto-js": "^3.1.5",
+        "express": "latest",
+        "express-session": "latest",
+        "hbs": "latest",
+        "mongodb": "latest",
+        "mongoose": "4.0.3",
+        "net": "latest",
+        "node-rsa": "^0.2.26",
+        "passport": "latest",
+        "passport-local": "latest",
+        "prompt": "latest",
+        "uuid": "latest",
+        "winston": "latest",
+        "mongoose-double": "latest",
+        "moment" : "latest",
+        "neo4j": "^1.1.1",
+        "underscore": ">=1.3.1",
+        "underscore.string": ">=2.3.3",
+        "request": "latest",
+        "async": "latest",
+        "redis": "latest"
+    }
+}
